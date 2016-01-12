@@ -1,0 +1,4 @@
+name: contributor
+	dependencies:
+		css: [atoms/contributor/contributor.css]
+		elements: [avatar]
