@@ -1,0 +1,22 @@
+.see-also {
+  @include nav;
+  @include nav--stacked;
+  @include branch;
+  margin-top: 8px;
+  margin-bottom: 0;
+
+  li {
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+  a {
+    @extend %brilliant;
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+  .label--icon {
+    margin-right: 4px;
+  }
+}
