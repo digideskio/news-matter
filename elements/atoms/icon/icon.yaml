@@ -1,0 +1,3 @@
+name: icon
+dependencies:
+  css: [atoms/icon/icon.css]
