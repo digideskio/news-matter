@@ -1,0 +1,4 @@
+name: promo
+dependencies:
+  css: [molecules/promo/promo.css]
+  elements: [icon]

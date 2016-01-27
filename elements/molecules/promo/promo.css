@@ -1,0 +1,31 @@
+.promo {
+
+  .image {
+    display: block;
+  }
+  h3 {
+    @extend %great-primer, %great-primer--bold;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  p {
+    @extend %long-primer;
+    color: $summary-copy;
+    margin-top: 8px;
+    margin-bottom: 8px;
+  }
+}
+  .promo__thumb {
+    position: relative;
+    margin-bottom: 8px;
+
+    // Label's inside thumbs get positioned absolutely
+    .promo__label {
+      position: absolute;
+      top: 0; left: 0;
+      z-index: 10;
+    }
+  }
+    .promo__label {
+      margin-bottom: 8px;
+    }
