@@ -1,1 +1,31 @@
-.metadata {}
+.metadata {
+  @include nav;
+  margin-top: 8px;
+  margin-bottom: 0;
+
+  li {
+    @extend %brevier;
+    border-right: 1px solid $keyline;
+    margin-right: 6px;
+    padding-right: 6px;
+
+    &:last-child {
+      border-right: none;
+      margin-right: 0;
+      padding-right: 0;
+    }
+  }
+  a {}
+  .icon {
+    margin-right: 4px;
+  }
+}
+  .metadata__time {
+    color: $summary-copy;
+
+    .icon svg {
+      fill: $summary-copy;
+    }
+  }
+  .metadata__section {}
+  .metadata__comments {}

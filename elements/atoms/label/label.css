@@ -1,1 +1,23 @@
-.label {}
+.label {
+  @extend %minion;
+  background-color: #000;
+  color: #FFF;
+  display: inline-block;
+  line-height: 1;
+  padding: 0.25em 0.25em 0.16em;
+  vertical-align: middle;
+}
+
+// -- Label Colour
+.label--newsbeat {
+  background-color: $newsbeat;
+}
+
+// -- Label Structural
+.label--inline {
+  margin-top: -0.25em;
+}
+.label--icon {
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}

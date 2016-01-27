@@ -1,1 +1,6 @@
-.avatar {}
+.avatar {
+  background-color: #EEE;
+  border-radius: 50%;
+  height: auto;
+  width: 48px;
+}
