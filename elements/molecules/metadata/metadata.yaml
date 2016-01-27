@@ -1,3 +1,4 @@
 name: contributor
 dependencies:
+  css: [molecules/metadata/metadata.css]
   elements: [icon]
