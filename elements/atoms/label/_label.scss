@@ -1,5 +1,5 @@
 .label {
-  @extend %minion;
+  @include gel-typography('minion');
   background-color: #000;
   color: #FFF;
   display: inline-block;

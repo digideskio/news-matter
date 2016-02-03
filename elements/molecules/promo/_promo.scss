@@ -4,12 +4,12 @@
     display: block;
   }
   h3 {
-    @extend %great-primer, %great-primer--bold;
+    @include gel-typography('great-primer-bold');
     margin-top: 0;
     margin-bottom: 0;
   }
   p {
-    @extend %long-primer;
+    @include gel-typography('long-primer');
     color: $summary-copy;
     margin-top: 8px;
     margin-bottom: 8px;

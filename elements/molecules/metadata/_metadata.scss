@@ -4,7 +4,7 @@
   margin-bottom: 0;
 
   li {
-    @extend %brevier;
+    @include gel-typography('brevier');
     border-right: 1px solid $keyline;
     margin-right: 6px;
     padding-right: 6px;

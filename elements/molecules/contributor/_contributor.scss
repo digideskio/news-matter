@@ -20,11 +20,10 @@
     vertical-align: middle;
   }
     .contributor__name {
-      @extend %brilliant;
-      @extend %brilliant--bold
+      @include gel-typography('brevier-bold');
     }
     .contributor__title {
-      @extend %brilliant;
+      @include gel-typography('brevier-bold');
     }
 
     .contributor__name,
