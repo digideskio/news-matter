@@ -4,27 +4,27 @@
 // ATOMS
 //
 
-@import "atoms/colours";
-@import "atoms/branch";
-@import "atoms/fonts";
-@import "atoms/nav";
+@import "atoms/colours/colours";
+@import "atoms/branch/branch";
+@import "atoms/fonts/fonts";
+@import "atoms/nav/nav";
 
-@import "atoms/icon";
-@import "atoms/avatar";
-@import "atoms/image";
-@import "atoms/label";
+@import "atoms/icon/icon";
+@import "atoms/avatar/avatar";
+@import "atoms/image/image";
+@import "atoms/label/label";
 
 
 // MOLECULES
 //
 
-@import "molecules/contributor";
-@import "molecules/see-also";
-@import "molecules/metadata";
-@import "molecules/promo";
+@import "molecules/contributor/contributor";
+@import "molecules/see-also/see-also";
+@import "molecules/metadata/metadata";
+@import "molecules/promo/promo";
 
 
 // ORGANISMS
 //
 
-@import "organisms/slice-4";
+@import "organisms/slice-4/slice-4";
