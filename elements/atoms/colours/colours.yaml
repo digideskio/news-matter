@@ -1,3 +1,0 @@
-name: colours
-dependencies:
-  css: [atoms/colours/colours.css]

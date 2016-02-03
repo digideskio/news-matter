@@ -1,3 +1,0 @@
-name: "slice-4"
-dependencies:
-  css: ["molecules/slice-4/slice-4.css"]

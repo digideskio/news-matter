@@ -1,3 +1,0 @@
-name: branch
-dependencies:
-  css: [atoms/branch/branch.css]

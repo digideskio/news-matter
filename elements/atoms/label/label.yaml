@@ -1,3 +1,0 @@
-name: label
-dependencies:
-  css: [atoms/label/label.css]

@@ -1,3 +1,0 @@
-name: fonts
-dependencies:
-  css: [atoms/fonts/fonts.css]

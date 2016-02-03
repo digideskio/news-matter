@@ -1,3 +1,0 @@
-name: nav
-dependencies:
-  css: [atoms/nav/nav.css]

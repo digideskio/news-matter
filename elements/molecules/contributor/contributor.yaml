@@ -1,4 +1,0 @@
-name: contributor
-dependencies:
-  css: [molecules/contributor/contributor.css]
-  elements: [avatar]

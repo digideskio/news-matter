@@ -1,4 +1,0 @@
-name: "see-also"
-dependencies:
-  css: ["molecules/see-also/see-also.css"]
-  elements: [icon]

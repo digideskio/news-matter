@@ -1,3 +1,0 @@
-name: image
-dependencies:
-  css: [atoms/image/image.css]
