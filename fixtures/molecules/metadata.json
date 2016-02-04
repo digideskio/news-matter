@@ -1,0 +1,21 @@
+{
+  "classes": "",
+
+  "time": {
+    "classes": "icon--type",
+    "set": "core",
+    "name": "duration",
+
+    "duration": "1 minute ago"
+  },
+
+  "section": "Science",
+
+  "comments": {
+    "classes": "icon--type",
+    "set": "social",
+    "name": "comments",
+
+    "count": "1337"
+  }
+}
