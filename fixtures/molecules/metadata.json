@@ -3,16 +3,18 @@
 
   "time": {
     "classes": "icon--type",
+
     "set": "core",
     "name": "duration",
 
-    "duration": "1 minute ago"
+    "duration": "1m"
   },
 
   "section": "Science",
 
   "comments": {
     "classes": "icon--type",
+
     "set": "social",
     "name": "comments",
 

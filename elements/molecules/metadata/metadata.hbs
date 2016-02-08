@@ -1,15 +1,13 @@
 <ul class="metadata {{classes}}">
   <li class="metadata__time">
-    {{#time}}
-      {{> atoms/icon}} {{duration}}
-    {{/time}}
+    {{> atoms/icon classes="icon--type" set="core" icon="duration"}} {{timestamp}}
   </li>
   <li class="metadata__section">
     <a href="#">{{section}}</a>
   </li>
-  <li class="metadata__comments">
-    {{#comments}}
-      {{> atoms/icon}} {{count}}
-    {{/comments}}
-  </li>
+  {{#comments}}
+    <li class="metadata__comments">
+        {{> atoms/icon classes="icon--type" set="social" icon="comments"}} {{numComments}}
+    </li>
+  {{/comments}}
 </ul>

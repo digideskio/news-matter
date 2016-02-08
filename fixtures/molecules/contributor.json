@@ -1,10 +1,12 @@
 {
   "classes": "",
+
   "name": "John Simpson",
-  "title": "World Affairs Editor",
+  "title": "World affairs editor",
 
   "avatar": {
     "classes": "",
-    "src": "img/molecules/contributor/john-simpson.png"
+
+    "src": "img/people/john-simpson.png"
   }
 }

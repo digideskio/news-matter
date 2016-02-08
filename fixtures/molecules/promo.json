@@ -1,3 +1,38 @@
 {
-  "classes": ""
+  "classes": "",
+
+  "label": {
+    "text": "Feature"
+  },
+  "media": {
+    "src": "img/stories/large-hadron-collider.jpg"
+  },
+
+  "headline": "Large Hadron Collider restarts after two-year rebuild",
+  "summary": {
+    "text": "Particle beams have now travelled in both directions, inside parallel pipes, at a whisker below the speed of light."
+  },
+
+  "contributor": {
+    "avatar": {
+      "src": "img/people/paul-rincon.png"
+    },
+    "name": "Paul Rincon",
+    "title": "Science editor"
+  },
+
+  "metadata": {
+    "timestamp": "13m",
+    "section": "Science",
+    "comments": {
+      "numComments": "1337"
+    }
+  },
+
+  "see-also": {
+    "anchors": [
+      { "classes": "", "text": "Large Hadron Collider turns on 'data tap'" },
+      { "classes": "", "text": "LHC restart: 'We want to break physics'" }
+    ]
+  }
 }
