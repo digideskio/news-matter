@@ -1,6 +1,12 @@
-{{!-- {% include atoms/label.html label-classes="label--inline" icon-classes="icon--label" set="media" name="video" %}  --}}
 <ul class="see-also">
   {{#anchors}}
-    <li class="{{classes}}"><a href="#">{{text}}</a></li>
+    <li class="{{classes}}">
+      <a href="#">
+        {{#icon}}
+          {{> atoms/icon classes="icon--type icon--label"}}
+        {{/icon}}
+        {{text}}
+      </a>
+    </li>
   {{/anchors}}
 </ul>
