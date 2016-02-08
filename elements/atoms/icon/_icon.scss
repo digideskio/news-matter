@@ -7,25 +7,27 @@
     width: 32px;
   }
 }
-  .icon--type {
-    line-height: 1;
-    margin-top: -0.25em;
-    vertical-align: middle;
 
-    &,
-    svg {
-      height: 1em;
-      width: 1em;
-    }
-  }
-  .icon--label {
+// Modifiers
+//
 
-    &,
-    svg {
-      height: 1em;
-      width: 1em;
-    }
-    svg {
-      fill: #FFF;
-    }
+.icon--type {
+  line-height: 1;
+  margin-top: -0.25em;
+  vertical-align: middle;
+
+  &,
+  svg {
+    height: 1em;
+    width: 1em;
   }
+}
+
+.icon--label {
+  background: #000;
+  margin-right: 0.5em;
+
+  svg {
+    fill: #FFF;
+  }
+}
