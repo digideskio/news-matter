@@ -1,23 +1,13 @@
 {
   "classes": "",
 
-  "time": {
-    "classes": "icon--type",
-
-    "set": "core",
-    "name": "duration",
-
+  "timestamp": {
     "duration": "1m"
   },
 
   "section": "Science",
 
   "comments": {
-    "classes": "icon--type",
-
-    "set": "social",
-    "name": "comments",
-
     "count": "1337"
   }
 }
