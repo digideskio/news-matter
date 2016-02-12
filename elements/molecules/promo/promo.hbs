@@ -19,7 +19,9 @@
     {{> molecules/contributor}}
   {{/contributor}}
 
-  {{> molecules/metadata metadata}}
+  {{#metadata}}
+    {{> molecules/metadata}}
+  {{/metadata}}
 
   {{#see-also}}
     {{> molecules/see-also}}

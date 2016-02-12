@@ -31,8 +31,20 @@
 
   "see-also": {
     "anchors": [
-      { "classes": "", "text": "Large Hadron Collider turns on 'data tap'" },
-      { "classes": "", "text": "LHC restart: 'We want to break physics'" }
+      {
+        "classes": "",
+
+        "icon": {
+          "set": "media",
+          "icon": "video"
+        },
+        "text": "Large Hadron Collider turns on 'data tap'"
+      },
+      {
+        "classes": "",
+
+        "text": "LHC restart: 'We want to break physics'"
+      }
     ]
   }
 }
