@@ -1,0 +1,53 @@
+.masthead {}
+.masthead--sport {
+  background-color: $sport;
+}
+
+  .masthead__inner {}
+    .masthead__logo {
+      display: block;
+      padding-top: 18px;
+      padding-bottom: 14px;
+      width: 120px;
+
+      img {
+        width: inherit;
+      }
+    }
+
+
+// PRIMARY NAV.
+//
+
+.primary-nav {
+  background-color: $sport;
+  border-top: 1px solid #C6AF36;
+}
+  .primary-nav__items {
+    @include clearfix;
+    list-style: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+  }
+    .primary-nav__item {
+      float: left;
+
+      span {
+        border-right: 1px solid #C6AF36;
+        display: block;
+        padding-right: 8px;
+        padding-left: 8px;
+      }
+      a {
+        display: block;
+        height: 32px;
+        padding-top: 8px;
+      }
+    }
+    .primary-nav__item--active {
+
+      a {
+        border-bottom: 4px solid #000;
+      }
+    }

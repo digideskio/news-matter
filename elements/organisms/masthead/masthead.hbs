@@ -1,0 +1,31 @@
+<div class="masthead masthead--sport {{classes}}">
+
+  <div class="gel-wrap">
+
+    <div class="masthead__inner">
+      <a class="masthead__logo" href="/">
+        <img src="img/branding/bbc-sport.svg" alt="" width="120" height="30" />
+      </a>
+    </div>
+
+  </div>
+
+</div>
+
+<div class="primary-nav">
+
+  <div class="gel-wrap">
+
+    {{#primary-nav}}
+      <ul class="primary-nav__items">
+        {{#anchors}}
+          <li class="primary-nav__item {{classes}}">
+            <a href="{{href}}"><span>{{text}}</span></a>
+          </li>
+        {{/anchors}}
+      </ul>
+    {{/primary-nav}}
+
+  </div>
+
+</div>

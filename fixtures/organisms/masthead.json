@@ -1,0 +1,17 @@
+{
+  "classes": "",
+
+  "primary-nav": {
+    "anchors": [
+      { "href": "#", "text": "Home", "classes": "primary-nav__item--active" },
+      { "href": "#", "text": "Football", "classes": "" },
+      { "href": "#", "text": "Formula 1", "classes": "" },
+      { "href": "#", "text": "Cricket", "classes": "" },
+      { "href": "#", "text": "Rugby U", "classes": "" },
+      { "href": "#", "text": "Rugby L", "classes": "" },
+      { "href": "#", "text": "Tennis", "classes": "" },
+      { "href": "#", "text": "Golf", "classes": "" },
+      { "href": "#", "text": "Athletics", "classes": "" }
+    ]
+  }
+}
