@@ -1,0 +1,113 @@
+{
+  "classes": "",
+
+  "items": [
+    {
+      "classes": "",
+
+      "media": {
+        "src": "http://ichef.bbci.co.uk/onesport/cps/240/cpsprodpb/780D/production/_88233703_vardy.jpg"
+      },
+      "headline": "MOTD analysis: Why can't teams stop Leicester?",
+      "summary": {
+        "text": "MOTD pundit Danny Murphy on why the Premier League leaders' seemingly simple tactics work and how rivals can counter them."
+      },
+      "metadata": {
+        "section": "Football"
+      }
+    },
+
+    {
+      "classes": "",
+
+      "media": {
+        "src": "http://ichef.bbci.co.uk/onesport/cps/240/cpsprodpb/1247F/production/_87297847_jimmy_hill_rex.jpg"
+      },
+      "headline": "Jimmy's 'heart belonged to Coventry'",
+      "summary": {
+        "text": "As Coventry pays tribute to former Sky Blues manager Jimmy Hill, fans and family recall his contribution to the football club and the city."
+      },
+      "metadata": {
+        "section": "BBC News"
+      }
+    },
+
+    {
+      "classes": "",
+
+      "media": {
+        "src": "http://ichef.bbci.co.uk/onesport/cps/240/cpsprodpb/D87F/production/_88232455_winteryoutholympics_getty.jpg"
+      },
+      "headline": "Youth get ready for Winter Olympics",
+      "summary": {
+        "text": "About 1100 athletes from 70 countries are getting ready to compete in the Winter Youth Olympic Games."
+      }
+    },
+
+    {
+      "classes": "",
+
+      "media": {
+        "src": "http://ichef.bbci.co.uk/onesport/cps/240/cpsprodpb/14E37/production/_87495558_femaleboxer.jpg"
+      },
+      "headline": "iWonder: Can sports cushion the blow of concussion?",
+      "summary": {
+        "text": "Is there more that sports like boxing or rugby can do to cut the risk of concussion, and do you know your fact from fiction?"
+      }
+    },
+
+    {
+      "classes": "",
+
+      "media": {
+        "src": "http://ichef.bbci.co.uk/onesport/cps/240/cpsprodpb/16A15/production/_84639629_predictor_kink3.jpg"
+      },
+      "headline": "Play our Premier League Predictor",
+      "summary": {
+        "text": "Think you know your football? Test your expertise by playing our game and seeing how many results you can predict correctly."
+      }
+    },
+
+    {
+      "classes": "",
+
+      "media": {
+        "src": "http://ichef.bbci.co.uk/onesport/cps/240/cpsprodpb/74EB/production/_88213992_gettyimages-457841764.jpg"
+      },
+      "headline": "The Price of Football five years on",
+      "summary": {
+        "text": "How much more are fans paying now in the Premier League compared to five years ago?"
+      },
+      "metadata": {
+        "section": "Football"
+      }
+    },
+
+    {
+      "classes": "",
+
+      "media": {
+        "src": "http://ichef.bbci.co.uk/onesport/cps/240/cpsprodpb/59F7/production/_88213032_promo_index.png"
+      },
+      "headline": "iWonder: Are Man Utd about to rule the world?",
+      "summary": {
+        "text": "£1bn sponsorship, 116 million social media followers and a £5bn TV deal - why Man Utd are set to become the world's richest club."
+      }
+    },
+
+    {
+      "classes": "",
+
+      "media": {
+        "src": "http://ichef.bbci.co.uk/onesport/cps/240/cpsprodpb/10883/production/_88151776_six_nations_promo_getty.jpg"
+      },
+      "headline": "What's on BBC Sport this week",
+      "summary": {
+        "text": "This week's sport on the BBC, including action from the Six Nations, Premier League and the Super League."
+      },
+      "metadata": {
+        "section": "Sport"
+      }
+    }
+  ]
+}
