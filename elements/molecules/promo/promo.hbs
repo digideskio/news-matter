@@ -9,21 +9,23 @@
     {{/media}}
   </div>
 
-  <h3>{{headline}}</h3>
+  <div class="promo__body">
+    <h3>{{headline}}</h3>
 
-  {{#summary}}
-    <p>{{text}}</p>
-  {{/summary}}
+    {{#summary}}
+      <p>{{text}}</p>
+    {{/summary}}
 
-  {{#contributor}}
-    {{> molecules/contributor}}
-  {{/contributor}}
+    {{#contributor}}
+      {{> molecules/contributor}}
+    {{/contributor}}
 
-  {{#metadata}}
-    {{> molecules/metadata}}
-  {{/metadata}}
+    {{#metadata}}
+      {{> molecules/metadata}}
+    {{/metadata}}
 
-  {{#see-also}}
-    {{> molecules/see-also}}
-  {{/see-also}}
+    {{#see-also}}
+      {{> molecules/see_also}}
+    {{/see-also}}
+  </div>
 </div>

@@ -19,7 +19,7 @@
     {{#primary-nav}}
       <ul class="primary-nav__items">
         {{#anchors}}
-          <li class="primary-nav__item {{classes}}">
+          <li class="primary-nav__item primary-nav__item--{{@index}} {{classes}}">
             <a href="{{href}}"><span>{{text}}</span></a>
           </li>
         {{/anchors}}

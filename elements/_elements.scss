@@ -19,7 +19,7 @@
 //
 
 @import "molecules/contributor/contributor";
-@import "molecules/see-also/see-also";
+@import "molecules/see_also/see_also";
 @import "molecules/metadata/metadata";
 @import "molecules/promo/promo";
 
@@ -27,7 +27,8 @@
 // ORGANISMS
 //
 
-@import "organisms/orb-header/orb-header";
-@import "organisms/orb-footer/orb-footer";
+@import "organisms/orb_header/orb_header";
+@import "organisms/orb_footer/orb_footer";
 @import "organisms/masthead/masthead";
 @import "organisms/simon/simon";
+@import "organisms/anfield/anfield";

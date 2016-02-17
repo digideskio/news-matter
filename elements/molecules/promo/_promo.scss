@@ -11,13 +11,13 @@
   p {
     @include gel-typography('long-primer');
     color: $summary-copy;
-    margin-top: 8px;
-    margin-bottom: 8px;
+    margin-top: $gel-spacing-unit;
+    margin-bottom: $gel-spacing-unit;
   }
 }
   .promo__thumb {
     position: relative;
-    margin-bottom: 8px;
+    margin-bottom: $gel-spacing-unit;
 
     // Label's inside thumbs get positioned absolutely
     .promo__label {
@@ -27,5 +27,44 @@
     }
   }
     .promo__label {
-      margin-bottom: 8px;
+      margin-bottom: $gel-spacing-unit;
     }
+  .promo__body {
+    padding-bottom: $gel-spacing-unit * 2;
+  }
+
+
+// Lead Promo
+//
+
+.promo--lead {
+  @include clearfix;
+
+  @include mq($until: 'gel-bp-m') {
+    p {
+      display: none;
+    }
+  }
+
+  .promo__thumb {
+
+    @include mq($from: 'gel-bp-m') {
+      margin-bottom: $gel-spacing-unit * 2;
+      width: 65.5%;
+    }
+  }
+  .promo__body {
+
+    @include mq($from: 'gel-bp-m') {
+      padding-left: $gel-spacing-unit * 2;
+      width: 34.5%;
+    }
+  }
+  .promo__thumb,
+  .promo__body {
+
+    @include mq($from: 'gel-bp-m') {
+      float: left;
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "classes": "",
+
+  "items": [
+    {
+      "classes": "promo--lead gel-3/4@xxl",
+
+      "media": {
+        "src": "http://ichef.bbci.co.uk/onesport/cps/480/cpsprodpb/3F3B/production/_88278161_suarez_messi.jpg"
+      },
+      "headline": "Sportsday - latest football news",
+      "summary": {
+        "text": "Premier League reaction, breaking sports news, the best of social media and was Lionel Messi's penalty disrespectful?"
+      }
+    },
+
+    {
+      "classes": "gel-1/3@m gel-1/4@xxl",
+
+      "media": {
+        "src": "http://ichef.bbci.co.uk/onesport/cps/240/cpsprodpb/EE9E/production/_87668016_ronnieosullivan2pa.jpg"
+      },
+      "headline": "Watch: Welsh Open Snooker",
+      "metadata": {
+        "section": "Snooker"
+      }
+    },
+
+    {
+      "classes": "gel-1/2 gel-1/3@m gel-1/4@xxl",
+
+      "media": {
+        "src": "http://ichef.bbci.co.uk/onesport/cps/240/cpsprodpb/063D/production/_88279510_suarez_messi_getty.jpg"
+      },
+      "headline": "Barca penalty: Disrespectful or genius?",
+      "metadata": {
+        "timestamp": {
+          "duration": "1h"
+        },
+        "section": "European Football"
+      }
+    },
+
+    {
+      "classes": "gel-1/2 gel-1/3@m gel-1/4@xxl",
+
+      "media": {
+        "src": "http://ichef.bbci.co.uk/onesport/cps/240/cpsprodpb/8351/production/_88271633_harrykanecelebrates_getty.jpg"
+      },
+      "headline": "MOTD3: Tottenham for the title?",
+      "metadata": {
+        "timestamp": {
+          "duration": "16 Aug"
+        }
+      }
+    },
+
+    {
+      "classes": "gel-1/2 gel-1/4@xxl",
+
+      "media": {
+        "src": "http://ichef.bbci.co.uk/onesport/cps/240/cpsprodpb/13CAB/production/_88276018_clark.jpg"
+      },
+      "headline": "Clark named Kilmarnock manager",
+      "metadata": {
+        "timestamp": {
+          "duration": "5h"
+        },
+        "section": "Football"
+      }
+    },
+
+    {
+      "classes": "gel-1/2 gel-1/4@xxl",
+
+      "media": {
+        "src": "http://ichef.bbci.co.uk/onesport/cps/240/cpsprodpb/0B5B/production/_88270920_624_reuters_rex_getty.jpg"
+      },
+      "headline": "I saw signs of 'old England' - Guscott",
+      "metadata": {
+        "timestamp": {
+          "duration": "8h"
+        },
+        "section": "Rugby Union"
+      }
+    }
+  ]
+}

@@ -22,14 +22,20 @@
   },
 
   "metadata": {
-    "timestamp": "13m",
+    "timestamp": {
+      "duration": "1m"
+    },
+
     "section": "Science",
+
     "comments": {
-      "numComments": "1337"
+      "count": "1337"
     }
   },
 
   "see-also": {
+    "classes": "",
+
     "anchors": [
       {
         "classes": "",
