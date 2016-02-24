@@ -5,7 +5,7 @@
     "text": "Feature"
   },
   "media": {
-    "src": "img/stories/large-hadron-collider.jpg"
+    "src": "assets/stories/large-hadron-collider.jpg"
   },
 
   "headline": "Large Hadron Collider restarts after two-year rebuild",
@@ -15,7 +15,7 @@
 
   "contributor": {
     "avatar": {
-      "src": "img/people/paul-rincon.png"
+      "src": "assets/people/paul-rincon.png"
     },
     "name": "Paul Rincon",
     "title": "Science editor"
