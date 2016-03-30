@@ -1,0 +1,33 @@
+.icon {
+  display: inline-block;
+
+  &,
+  svg {
+    height: 32px;
+    width: 32px;
+  }
+}
+
+// Modifiers
+//
+
+.icon--type {
+  line-height: 1;
+  margin-top: -0.25em;
+  vertical-align: middle;
+
+  &,
+  svg {
+    height: 1em;
+    width: 1em;
+  }
+}
+
+.icon--label {
+  background: #000;
+  margin-right: 0.5em;
+
+  svg {
+    fill: #FFF;
+  }
+}
