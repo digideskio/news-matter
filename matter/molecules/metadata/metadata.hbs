@@ -1,7 +1,7 @@
 <ul class="metadata {{classes}}">
   {{#timestamp}}
     <li class="metadata__time">
-      {{> atoms/icon classes="icon--type" set="core" icon="duration"}} {{duration}}
+      {{atom "ux-news-matter/icon" classes="icon--type" set="core" icon="duration"}} {{duration}}
     </li>
   {{/timestamp}}
   <li class="metadata__section">
@@ -9,7 +9,7 @@
   </li>
   {{#comments}}
     <li class="metadata__comments">
-        {{> atoms/icon classes="icon--type" set="social" icon="comments"}} {{count}}
+        {{atom "ux-news-matter/icon" classes="icon--type" set="social" icon="comments"}} {{count}}
     </li>
   {{/comments}}
 </ul>
