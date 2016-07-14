@@ -22,10 +22,15 @@
 }
   .metadata__time {
     color: $summary-copy;
+    cursor: pointer;
 
     .icon svg {
       fill: $summary-copy;
     }
   }
+    .metadata__dur-rel {}
+    .metadata__dur-abs {
+      display: none;
+    }
   .metadata__section {}
   .metadata__comments {}
