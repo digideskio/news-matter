@@ -1,4 +1,4 @@
-// ux-news-matter/index.js
+// bbc-news-matter/index.js
 //
 
 import contributor from './molecules/contributor/contributor';
